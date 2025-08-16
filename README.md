@@ -36,3 +36,5 @@ Considerando outros LMS Open Source:
 | **Forma LMS**  | Treinamento corporativo                  | Pensado para empresas, bom para e-learning interno, suporte a multi-empresa                                          | Comunidade menor, menos recursos para marketing/monetização                           |
 
 Pensando em testar um vibe coding para ver no que dá. Com Firebase Studio.
+
+Descobri que tem como subir o código do Firebase Studio no github. Próximo passo ver se conseguimos rodar aqui local. Interessante.
