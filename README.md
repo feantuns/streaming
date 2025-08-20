@@ -38,3 +38,10 @@ Considerando outros LMS Open Source:
 Pensando em testar um vibe coding para ver no que dá. Com Firebase Studio.
 
 Descobri que tem como subir o código do Firebase Studio no github. Próximo passo ver se conseguimos rodar aqui local. Interessante.
+
+Pensando nos próximos passos.
+
+- Podemos tentar fazer a arquitetura baseada no próprio firebase para já ter autenticação e controle fácil sobre o banco de dados
+- Podemos tentar outras ferramentas para ver o resultado
+- Podemos tentar fazer a infra sem utilizar o firebase
+-
